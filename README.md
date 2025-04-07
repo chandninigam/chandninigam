@@ -6,5 +6,5 @@ About Me
 - JavaScript | TypeScript
 - React | React Native | Next
 - 🌱 I’m currently learning Nextjs
-- Website: https://website-chandni-nigams-projects.vercel.app/
+- Website: https://chandninigam.vercel.app/
 - 📫 How to reach me: nigamchandni139@gmail.com
